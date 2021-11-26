@@ -1,5 +1,4 @@
 coincurve
 pysha3
-sha3
-csv
+python-csv
 alive-progress
