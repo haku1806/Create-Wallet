@@ -9,5 +9,5 @@
 
 - Run create wallet:
 ```bash
- pip install -r requirements.txt
+ python gen_wallet.py
 ```
