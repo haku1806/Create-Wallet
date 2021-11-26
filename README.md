@@ -1,4 +1,4 @@
-### Creates a wallet on Binance Smart Chain
+# Creates a wallet on Binance Smart Chain
 
 ## Requires lower version of python 3.6.x
 
